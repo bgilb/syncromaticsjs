@@ -1,0 +1,32 @@
+{
+  "name": "syncromaticsjs",
+  "version": "0.0.1",
+  "description": "api wrapper to get transit data from syncromatics.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgilb/syncromaticsjs.git"
+  },
+  "keywords": [
+    "syncromatics",
+    "transit",
+    "syncromaticsjs"
+  ],
+  "author": "Blaine Gilbreth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgilb/syncromaticsjs/issues"
+  },
+  "homepage": "https://github.com/bgilb/syncromaticsjs",
+  "dependencies": {
+    "superagent": "^0.18.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "express": "^4.1.1",
+    "mocha": "^1.18.2"
+  }
+}
