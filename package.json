@@ -1,6 +1,6 @@
 {
   "name": "syncromaticsjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "api wrapper to get transit data from syncromatics.com",
   "main": "index.js",
   "scripts": {
