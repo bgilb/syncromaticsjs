@@ -3,7 +3,9 @@ Wrapper api for getting data from the [syncromatics](http://syncromatics.com) tr
 
 # install from the npm registry
 
-`npm install syncromaticsjs`
+`$ npm install syncromaticsjs`
+
+[![NPM version](https://badge.fury.io/js/syncromaticsjs.svg)](http://badge.fury.io/js/syncromaticsjs)
 
 # example
 
