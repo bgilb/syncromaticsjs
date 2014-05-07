@@ -4,7 +4,7 @@
   "description": "api wrapper to get transit data from syncromatics.com",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
