@@ -1,7 +1,7 @@
 # syncromaticsjs
 Wrapper api for getting data from the [syncromatics](http://syncromatics.com) transit servers.
 
-# install
+# install from the npm registry
 
 `npm install syncromaticsjs`
 
@@ -25,9 +25,6 @@ syncromatics.regions(options, function(error, regions) {
 ```
 
 # testing
-
-`npm test`
-
-# travis
+To install dependencies, `npm install` then `npm test` to run the tests
 
 [![Build Status](https://travis-ci.org/bgilb/syncromaticsjs.svg?branch=master)](https://travis-ci.org/bgilb/syncromaticsjs)
