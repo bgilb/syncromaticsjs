@@ -27,3 +27,7 @@ syncromatics.regions(options, function(error, regions) {
 # testing
 
 `npm test`
+
+# travis
+
+[![Build Status](https://travis-ci.org/bgilb/syncromaticsjs.svg?branch=master)](https://travis-ci.org/bgilb/syncromaticsjs)
